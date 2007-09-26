@@ -1,4 +1,4 @@
 category: X11 Math
-requires: cygwin libX11_6 libXaw8
+requires: cygwin libX11_6 libXaw8 libXt6
 sdesc: "Xorg calculator"
 ldesc: "Xorg calculator"
