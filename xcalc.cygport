@@ -1,0 +1,9 @@
+inherit xorg
+
+NAME="xcalc"
+VERSION=1.0.5
+RELEASE=1
+CATEGORY="Math"
+SUMMARY="X scientific calculator"
+DESCRIPTION="xcalc is a scientific calculator desktop accessory that can
+emulate well-known scientific calculators."

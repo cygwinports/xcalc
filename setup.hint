@@ -1,4 +1,0 @@
-category: X11 Math
-requires: libX11_6 libXaw7 libXt6
-sdesc: "X.Org calculator"
-ldesc: "X.Org calculator"
